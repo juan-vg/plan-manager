@@ -1,0 +1,26 @@
+(objA ObjA)
+(objB ObjB)
+(objC ObjC)
+(objD ObjD)
+(objE ObjE)
+(objF ObjF)
+(objG ObjG)
+(objH ObjH)
+(objI ObjI)
+
+
+(preconds
+ (there-is objA)
+ (there-is-not objB)
+ (there-is-not objC)
+ (there-is-not objD)
+ (there-is-not objE)
+ (there-is-not objF)
+ (there-is-not objG)
+ (there-is-not objH)
+ (there-is-not objI)
+)
+
+(effects
+ (there-is objI)
+)
